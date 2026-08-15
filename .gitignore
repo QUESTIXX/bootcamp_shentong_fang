@@ -1,0 +1,10 @@
+# Ignore local class materials
+class_materials/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.DS_Store
